@@ -11,6 +11,7 @@ I started building small tools to solve these myself, usually with AI-assisted c
 - 📄 [pdf-key-extract](https://github.com/MelisaMus/pdf-key-extract) — client-side extraction of structured data from PDFs, including scanned pages
 - 📝 [format-fantastic](https://github.com/MelisaMus/format-fantastic) — import any CV as PDF, auto-detect its structure, edit freely, export print-ready
 - 🔬 [research-output-monitor](https://github.com/MelisaMus/research-output-monitor) — a Python tool that tracks new PubMed publications against a group's website and flags what's missing
+- 🚲 [bike-demand-resource-planning](https://github.com/MelisaMus/bike-demand-resource-planning) — forecasting bike-share demand with TabPFN to inform resource and redistribution planning
 - 🚗 [shared-drive-pal](https://github.com/MelisaMus/shared-drive-pal) — booking and handover tracking for a team-shared car
 - 🖥️ [buddy-desk-finder](https://github.com/MelisaMus/buddy-desk-finder) — a quiet little dashboard for booking desks and seeing where teammates are sitting
 - 💬 [ask-my-portfolio-ai](https://github.com/MelisaMus/ask-my-portfolio-ai) — a small RAG chatbot that answers questions about a personal essay collection, with sources
