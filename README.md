@@ -9,6 +9,7 @@ I started building small tools to solve these myself, usually with AI-assisted c
 - 🗓️ [gutachten-dashboard](https://github.com/MelisaMus/gutachten-dashboard) — deadline tracking and process KPIs for expert-report workflows, with access control and full change history
 - 💶 [gehalts-guide](https://github.com/MelisaMus/gehalts-guide) — a calculator for German public-sector personnel costs (TV-L / TV-Ärzte)
 - 📄 [pdf-key-extract](https://github.com/MelisaMus/pdf-key-extract) — client-side extraction of structured data from PDFs, including scanned pages
+- 👥 [workforce-analytics-retention-insights](https://github.com/MelisaMus/workforce-analytics-retention-insights) — exploratory People Analytics on employee attrition, combining hypothesis-driven analysis with logistic regression and a strong focus on responsible, non-individual-level interpretation
 - 📝 [format-fantastic](https://github.com/MelisaMus/format-fantastic) — import any CV as PDF, auto-detect its structure, edit freely, export print-ready
 - 🔬 [research-output-monitor](https://github.com/MelisaMus/research-output-monitor) — a Python tool that tracks new PubMed publications against a group's website and flags what's missing
 - 🚲 [bike-demand-resource-planning](https://github.com/MelisaMus/bike-demand-resource-planning) — forecasting hourly bike demand and translating predictions into operational resource-planning recommendations, combining EDA, chronological validation, error analysis, and risk classification
