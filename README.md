@@ -11,7 +11,7 @@ I started building small tools to solve these myself, usually with AI-assisted c
 - 📝 [format-fantastic](https://github.com/MelisaMus/format-fantastic) — import any CV as PDF, auto-detect its structure, edit freely, export print-ready
 - 📄 [pdf-key-extract](https://github.com/MelisaMus/pdf-key-extract) — client-side extraction of structured data from PDFs, including scanned pages
 - 🗓️ [gutachten-dashboard](https://github.com/MelisaMus/gutachten-dashboard) — deadline tracking and process KPIs for expert-report workflows, with access control and full change history
-- 🧭 [partner-compass](https://github.com/MelisaMus/partner-compass) — Kanban board with a chat interface for coordinating multi-partner projects with parallel deadlines, answering status questions directly from the board data
+- 🧭 [project-partner-compass](https://github.com/MelisaMus/partner-compass) — Kanban board with a chat interface for coordinating multi-partner projects with parallel deadlines, answering status questions directly from the board data
 - 🔬 [research-output-monitor](https://github.com/MelisaMus/research-output-monitor) — a Python tool that tracks new PubMed publications against a group's website and flags what's missing
 - 🚲 [bike-demand-resource-planning](https://github.com/MelisaMus/bike-demand-resource-planning) — forecasting hourly bike demand and translating predictions into operational resource-planning recommendations, combining EDA, chronological validation, error analysis, and risk classification
 - 🚗 [shared-drive-pal](https://github.com/MelisaMus/shared-drive-pal) — booking and handover tracking for a team-shared car
