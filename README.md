@@ -6,6 +6,7 @@ I started building small tools to solve these myself, usually with AI-assisted c
 
 **Some of the things I've built:**
 
+- 🎭 [dialogue-dynamo-hub](https://github.com/MelisaMus/dialogue-dynamo-hub) — Rehearsal: an account-free roleplay app for practicing high-stakes workplace conversations (tough feedback, conflict, negotiation, public speaking), with voice or text mode and an honest coaching scorecard after each session
 - 💶 [gehalts-guide](https://github.com/MelisaMus/gehalts-guide) — a calculator for German public-sector personnel costs (TV-L / TV-Ärzte)
 - 👥 [workforce-analytics-retention-insights](https://github.com/MelisaMus/workforce-analytics-retention-insights) — exploratory People Analytics on employee attrition, combining hypothesis-driven analysis with logistic regression and a strong focus on responsible, non-individual-level interpretation
 - 📝 [format-fantastic](https://github.com/MelisaMus/format-fantastic) — import any CV as PDF, auto-detect its structure, edit freely, export print-ready
