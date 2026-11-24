@@ -6,19 +6,44 @@ I started building small tools to solve these myself, usually with AI-assisted c
 
 **Some of the things I've built:**
 
-- 🎭 [dialogue-dynamo-hub](https://github.com/MelisaMus/dialogue-dynamo-hub) — Rehearsal: an account-free roleplay app for practicing high-stakes workplace conversations (tough feedback, conflict, negotiation, public speaking), with voice or text mode and an honest coaching scorecard after each session
-- 💶 [gehalts-guide](https://github.com/MelisaMus/gehalts-guide) — a calculator for German public-sector personnel costs (TV-L / TV-Ärzte)
-- 👥 [workforce-analytics-retention-insights](https://github.com/MelisaMus/workforce-analytics-retention-insights) — exploratory People Analytics on employee attrition, combining hypothesis-driven analysis with logistic regression and a strong focus on responsible, non-individual-level interpretation
-- 📝 [format-fantastic](https://github.com/MelisaMus/format-fantastic) — import any CV as PDF, auto-detect its structure, edit freely, export print-ready
-- 📄 [pdf-key-extract](https://github.com/MelisaMus/pdf-key-extract) — client-side extraction of structured data from PDFs, including scanned pages
-- 🗓️ [gutachten-dashboard](https://github.com/MelisaMus/gutachten-dashboard) — deadline tracking and process KPIs for expert-report workflows, with access control and full change history
-- 🧭 [project-partner-compass](https://github.com/MelisaMus/project-partner-compass) — Kanban board with a chat interface for coordinating multi-partner projects with parallel deadlines, answering status questions directly from the board data
-- 🔬 [research-output-monitor](https://github.com/MelisaMus/research-output-monitor) — a Python tool that tracks new PubMed publications against a group's website and flags what's missing
-- 🚲 [bike-demand-resource-planning](https://github.com/MelisaMus/bike-demand-resource-planning) — forecasting hourly bike demand and translating predictions into operational resource-planning recommendations, combining EDA, chronological validation, error analysis, and risk classification
-- 🚗 [shared-drive-pal](https://github.com/MelisaMus/shared-drive-pal) — booking and handover tracking for a team-shared car
-- 🖥️ [buddy-desk-finder](https://github.com/MelisaMus/buddy-desk-finder) — a quiet little dashboard for booking desks and seeing where teammates are sitting
-- 💬 [ask-my-portfolio-ai](https://github.com/MelisaMus/ask-my-portfolio-ai) — a small RAG chatbot that answers questions about a personal essay collection, with sources
+**[Ensavo](https://ensavo.de)**: My own product, currently in its pilot phase. A practice space where
+leaders rehearse difficult conversations (feedback, conflict, negotiation) with an AI counterpart
+and receive feedback backed by quotes from their own conversation. I have owned it from idea and
+requirements through to pilot operation.
 
+## Research Management & Process Digitalization
+
+- **[Research Output Monitor](https://github.com/MelisaMus/research-output-monitor)**: Detects new
+  PubMed publications, matches them against research group websites and generates a PDF report.
+  Replaces a previously manual monitoring process. *Python*
+- **[GehaltsGuide](https://github.com/MelisaMus/gehalts-guide)**: Staff cost planning based on German
+  public-sector pay scales (TV-L, TV-Ärzte), with forecasts, scenarios and DFG rate comparison.
+- **[Project Partner Compass](https://github.com/MelisaMus/project-partner-compass)**: Coordinating
+  sub-projects across multiple partner organizations: task board, deadline traffic light, reports,
+  AI-powered status queries. *Concept and requirements by me, built with Lovable*
+- **[Gutachten-Cockpit](https://github.com/MelisaMus/gutachten-dashboard)**: Tracking of expert assessment
+  requests with escalation levels, lead times and process KPIs.
+  *Concept and requirements by me, built with Lovable*
+
+## Data Analytics & Decision Support
+
+- **[Bike Demand Resource Planning](https://github.com/MelisaMus/bike-demand-resource-planning)**:
+  Demand forecasting for resource planning, comparing random and chronological validation. *Python*
+- **[Workforce Analytics](https://github.com/MelisaMus/workforce-analytics-retention-insights)**:
+  Exploratory employee turnover analysis with a focus on responsible use of HR data. *Python*
+- **[TabPFN Decision Support](https://github.com/MelisaMus/tabpfn-decision-support)**: Reproducible
+  model comparison in which the simplest model performed best. *Python*
+- **[Ask My Portfolio AI](https://github.com/MelisaMus/ask-my-portfolio-ai)**: AI chat with semantic
+  search and source citations. *Built with Lovable*
+
+## Further Tools
+
+- **[PDF Data Extractor](https://github.com/MelisaMus/pdf-key-extract)**: Extracts structured data
+  from PDFs, including scanned pages.
+- **[TEAMobility](https://github.com/MelisaMus/shared-drive-pal)**: Booking and handover of a shared team vehicle.
+- **[CV Editor](https://github.com/MelisaMus/format-fantastic)**: PDF import, editing and export of CVs.
+- **[Desk Buddy](https://github.com/MelisaMus/buddy-desk-finder)**: Desk booking for shared workspaces.
+  
 I also write essays and reportage (InZeitung, Schopf2 Poetry Magazin) — a different kind of structure, but structure all the same.
 
-Currently curious about where careful process work meets practical AI tooling — including a small [side experiment](https://github.com/MelisaMus/tabpfn-decision-support) comparing TabPFN to classical baselines on a public dataset, mostly to understand how it thinks.
+Currently curious about where careful process work meets practical AI tooling.
