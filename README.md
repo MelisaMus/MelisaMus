@@ -27,6 +27,10 @@ requirements through to pilot operation.
 
 ## Data Analytics & Decision Support
 
+- **[Stellen-Scout](https://github.com/MelisaMus/stellen-scout)**: Collects job postings from
+  several sources (Federal Employment Agency API, RSS feeds, career pages), merges duplicates via a
+  normalized key, scores the fit with configurable rules and reports only new matches. Runs daily
+  via GitHub Actions, covered by automated tests. *Python, SQLite*
 - **[Bike Demand Resource Planning](https://github.com/MelisaMus/bike-demand-resource-planning)**:
   Demand forecasting for resource planning, comparing random and chronological validation. *Python*
 - **[Workforce Analytics](https://github.com/MelisaMus/workforce-analytics-retention-insights)**:
