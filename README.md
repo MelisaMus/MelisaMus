@@ -42,7 +42,13 @@ requirements through to pilot operation.
 
 ## Further Tools
 
-- **[PDF Data Extractor](https://github.com/MelisaMus/pdf-key-extract)**: Extracts structured data
+- ### 📬 Brief verstehen
+Born out of my work as an interpreter for Roma families: a web app that translates German
+official letters into Easy German and the family's own language – with deadlines, to-dos
+and pointers to local counselling services. Deadlines are calculated in code, not estimated
+by the AI; letters are never stored.
+🔗 [Web app](https://briefeverstehen.lovable.app) · 📂 [Repository](https://github.com/MelisaMus/briefeverstehen)
+**[PDF Data Extractor](https://github.com/MelisaMus/pdf-key-extract)**: Extracts structured data
   from PDFs, including scanned pages.
 - **[TEAMobility](https://github.com/MelisaMus/shared-drive-pal)**: Booking and handover of a shared team vehicle.
 - **[CV Editor](https://github.com/MelisaMus/format-fantastic)**: PDF import, editing and export of CVs.
