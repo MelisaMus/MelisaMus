@@ -24,7 +24,7 @@ requirements through to pilot operation.
 - **[Gutachten-Cockpit](https://github.com/MelisaMus/gutachten-dashboard)**: Tracking of expert assessment
   requests with escalation levels, lead times and process KPIs.
   *Concept and requirements by me, built with Lovable*
-- **[Brief verstehen](https://github.com/MelisaMus/briefeverstehen)**:
+- **[Postkompass](https://github.com/MelisaMus/postkompass)**:
 Born out of my work as an interpreter for Roma families: a web app that translates German
 official letters into Easy German and the family's own language – with deadlines, to-dos
 and pointers to local counselling services. Deadlines are calculated in code, not estimated
